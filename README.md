@@ -1,0 +1,1 @@
+# Qt5_Intermediate_12.3_MetaInformation_QMetaObject-SetProperty
